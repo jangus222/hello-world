@@ -1,2 +1,4 @@
 # hello-world
-Learning github
+Learning github.
+
+Hi, I'm Jason. 
